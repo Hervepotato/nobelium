@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'Herve Blog',
+  author: 'Herve',
+  email: 'Helloherve.xsn@gmail.com',
+  link: 'https://www.notion.so/hervenotes/markdown-4b36f4054eee468eabb68f4060cb1fa9',
+  description: 'test this web.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -14,7 +14,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/jierzhendeda',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
