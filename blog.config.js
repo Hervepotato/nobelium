@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Herve',
   email: 'Helloherve.xsn@gmail.com',
   link: 'https://www.notion.so/hervenotes/291e8971272f4c169b1bdc89a4363c6d?v=347e73771b7b4fc8a4fb0b8c45bf797c',
-  description: 'test this web.',
+  description: '这里是小何的地盘.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
