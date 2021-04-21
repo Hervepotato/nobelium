@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Herve Blog',
   author: 'Herve',
   email: 'Helloherve.xsn@gmail.com',
-  link: 'https://www.notion.so/hervenotes/markdown-4b36f4054eee468eabb68f4060cb1fa9',
+  link: 'https://www.notion.so/hervenotes/291e8971272f4c169b1bdc89a4363c6d?v=347e73771b7b4fc8a4fb0b8c45bf797c',
   description: 'test this web.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
